@@ -1,0 +1,12 @@
+<toolchains>
+    <toolchain>
+        <type>jdk</type>
+        <provides>
+            <version>22</version>
+            <vendor>oracle</vendor>
+        </provides>
+        <configuration>
+            <jdkHome>/path/to/java22</jdkHome>
+        </configuration>
+    </toolchain>
+</toolchains>
